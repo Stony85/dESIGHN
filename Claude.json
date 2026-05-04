@@ -2,7 +2,7 @@
   "mcpServers": {
     "github": {
       "env": {
-        "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
+        "GITHUB_PERSONAL_ACCESS_TOKEN": ""
       }
     }
   }
